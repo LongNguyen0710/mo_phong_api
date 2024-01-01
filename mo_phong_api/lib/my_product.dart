@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/model/product.dart';
+import 'package:mo_phong_api/model/product.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 
 void main() {
